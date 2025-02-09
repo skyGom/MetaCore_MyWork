@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbc8e10d91cee9f4185c83b55d1f9096, type: 3}
+  m_Name: Tween Data MiningAleoU
+  m_EditorClassIdentifier: 
+  moveType: 0
+  deviceMoveValue:
+  - 250
+  - 400
+  deviceMoveTime:
+  - 0.5
+  - 0.6
+  deviceFadeTime:
+  - 0.6
+  - 0.7
+  deviceLineMoveValue:
+  - -150
+  - -200
+  deviceLineMoveTime:
+  - 0.3
+  - 0.5
+  deviceLineFadeTime:
+  - 0.5
+  - 0.6
+  miningMoveValue:
+  - 650
+  - 500
+  miningMoveTime:
+  - 0.5
+  - 0.6
+  miningFadeTime:
+  - 0.6
+  - 0.7
+  miningLineMoveValue:
+  - 150
+  - 150
+  miningLineMoveTime:
+  - 0.4
+  - 0.5
+  miningLineFadeTime:
+  - 0.5
+  - 0.6
+  DeviceLevel:
+    MoveValue: 250
+    MoveTime: 0.5
+    FadeTime: 0.6
+    ScaleEase: 21
+  DeviceMatching:
+    MoveValue: 400
+    MoveTime: 0.6
+    FadeTime: 0.7
+    ScaleEase: 21
+  MiningLevel:
+    MoveValue: 650
+    MoveTime: 0.5
+    FadeTime: 0.6
+    ScaleEase: 21
+  MiningMatching:
+    MoveValue: 500
+    MoveTime: 0.6
+    FadeTime: 0.7
+    ScaleEase: 21
+  Line:
+    MoveValue: -150
+    MoveTime: 0.5
+    FadeTime: 0.6
+    ScaleEase: 0

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "745954005253",
+    "project_id": "metacore-395305",
+    "storage_bucket": "metacore-395305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745954005253:android:e1a0d8ebcc0b3f5f85a76c",
+        "android_client_info": {
+          "package_name": "com.metacore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745954005253-2aju6vi8r80b2ho53rl2mr72eeijh7g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChtVFryTYcbQuZJJQJpq-dE7yLkYng7xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745954005253-2aju6vi8r80b2ho53rl2mr72eeijh7g7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "745954005253-rngmgu2p1cv7jr3ustkb3d649fqrqboe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.metacore-ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

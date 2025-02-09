@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c92e99311292d0f44aa5cde2ec943bf3, type: 3}
+  m_Name: Second Spawn Time Table Data
+  m_EditorClassIdentifier: 
+  SpawnPhase: 1
+  EmergenceDatas:
+  - {fileID: 11400000, guid: 23d290b993af89a49a8c1a6f6a10ea23, type: 2}
+  - {fileID: 11400000, guid: be626658cceadc246ba709d290cb12c5, type: 2}
+  - {fileID: 11400000, guid: 8893dcd9a62aea149b324fbb6f41bfcb, type: 2}
+  - {fileID: 11400000, guid: 1b2c5b13e1b437443a548646cba8086e, type: 2}
+  - {fileID: 11400000, guid: 33c916eceda49ca43abb8624373146e1, type: 2}

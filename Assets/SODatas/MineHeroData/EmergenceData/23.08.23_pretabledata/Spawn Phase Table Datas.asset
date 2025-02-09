@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 805ead83a8d07d443953338eedb5d1d7, type: 3}
+  m_Name: Spawn Phase Table Datas
+  m_EditorClassIdentifier: 
+  PhaseTables:
+  - {fileID: 11400000, guid: 2111874c52f542546807c0902eff58c3, type: 2}
+  - {fileID: 11400000, guid: ebae7ecf29a131144bc04e46814b9cc5, type: 2}
+  - {fileID: 11400000, guid: 046ece94ae74b1c4b901796d67f9d534, type: 2}
+  - {fileID: 11400000, guid: 267ec97b50a897348832b1fa574db11f, type: 2}
+  - {fileID: 11400000, guid: 025fee17deb38f4409b0a87c0d01835b, type: 2}
+  - {fileID: 11400000, guid: f1a82b4203580a44faa25dbc6aa32430, type: 2}

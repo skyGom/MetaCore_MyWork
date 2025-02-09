@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c92e99311292d0f44aa5cde2ec943bf3, type: 3}
+  m_Name: Fourth Spawn Time Table Data
+  m_EditorClassIdentifier: 
+  SpawnPhase: 3
+  EmergenceDatas:
+  - {fileID: 11400000, guid: b10822e7503ae8c478eeebf5f39abff1, type: 2}
+  - {fileID: 11400000, guid: 7ae21d802f6a16a4d80747db582505d6, type: 2}
+  - {fileID: 11400000, guid: 6c0860e3f6a7a834f9d0df5915cdd8d4, type: 2}
+  - {fileID: 11400000, guid: 557e57f1199ba354c893a03cec396d61, type: 2}
+  - {fileID: 11400000, guid: bc84b44baeca21542be956fe0a20ee04, type: 2}

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa311059680484a45912d36573f955bf, type: 3}
+  m_Name: Dictionary Data
+  m_EditorClassIdentifier: 
+  PortalSceneSyncData:
+    m_keys: 0000000001000000020000000300000004000000
+    m_values: 0000000006000000040000000500000003000000
+  PortalMapMatSyncDic:
+    m_keys: 0100000002000000030000000400000000000000
+    m_values: 0000000001000000020000000300000003000000
+  SceneBgmSyncDic:
+    m_keys: 010000000300000004000000050000000600000008000000
+    m_values: 000000000100000002000000030000000400000005000000
+  SceneSpwanPosDic:
+    m_keys: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a000000
+    m_values:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: -0.03160429, z: 0}
+    - {x: 0, y: -2.7, z: 13}
+    - {x: -3.8, y: -0.09825039, z: 0}
+    - {x: 0, y: 0.02849865, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 3}
+    - {x: 0, y: 0, z: 3}
+    - {x: 0, y: 0, z: 3}
+  SceneSpwanRotDic:
+    m_keys: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a000000
+    m_values:
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+  LanguageSettingSyncDic:
+    m_keys: 0a000000170000001600000006000000
+    m_values: 00000000010000000200000003000000
+  ADMapMatSyncDic:
+    m_keys: 
+    m_values: 

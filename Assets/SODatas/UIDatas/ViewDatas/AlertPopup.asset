@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029e14649e89b4c4e855ddae5281c471, type: 3}
+  m_Name: AlertPopup
+  m_EditorClassIdentifier: 
+  ViewId: 8
+  ViewType: 3
+  Name: 
+  Description: 
+  ShowTweenDatas:
+  - {fileID: 11400000, guid: 20572827716216b4193f9b2b3d1566cb, type: 2}
+  HideTweenDatas:
+  - {fileID: 11400000, guid: eaa58af44c3d51a4994e3bcd1b534af6, type: 2}
