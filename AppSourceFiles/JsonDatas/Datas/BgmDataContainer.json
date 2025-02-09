@@ -1,0 +1,12 @@
+﻿{
+    "Datas": [{
+            "Id": "Bg0",
+            "FileName": "Milos.wav",
+            "Volume": 1
+        }, {
+            "Id": "Bg1",
+            "FileName": "Bike_Rides.wav",
+            "Volume": 1
+        }
+    ]
+}

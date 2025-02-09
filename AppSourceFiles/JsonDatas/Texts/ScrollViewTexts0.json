@@ -1,0 +1,36 @@
+{
+    "TextContainerId": "ScrollViewText0",
+    "TextDatas":
+    [{
+            "TextDisplayId": 0,
+            "NameFontId": 0,
+            "DescriptionFontId": 1,
+            "Name": "ScrollItem0",
+            "Description": "<b><color=#ffffff>I'm ScrollItem0</b></color>"
+        }, {
+            "TextDisplayId": 1,
+            "NameFontId": 0,
+            "DescriptionFontId": 1,
+            "Name": "ScrollItem1",
+            "Description": "<b><color=#ffffff>I'm ScrollItem1</b></color>"
+        }, {
+            "TextDisplayId": 2,
+            "NameFontId": 0,
+            "DescriptionFontId": 1,
+            "Name": "ScrollItem2",
+            "Description": "<b><color=#ffffff>I'm ScrollItem2</b></color>"
+        }, {
+            "TextDisplayId": 3,
+            "NameFontId": 0,
+            "DescriptionFontId": 1,
+            "Name": "ScrollItem3",
+            "Description": "<b><color=#ffffff>I'm ScrollItem3</b></color>"
+        }, {
+            "TextDisplayId": 4,
+            "NameFontId": 0,
+            "DescriptionFontId": 1,
+            "Name": "ScrollItem4",
+            "Description": "<b><color=#ffffff>I'm ScrollItem4</b></color>"
+        }
+    ]
+}

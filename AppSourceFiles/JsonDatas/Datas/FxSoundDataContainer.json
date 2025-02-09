@@ -1,0 +1,19 @@
+﻿{
+  "Datas": [
+  {
+    "Id": "ButtonClick",
+	"FileName": "button_click.wav",
+    "Volume": 1
+  },
+  {
+    "Id": "CameraShutter",
+	"FileName": "CameraShutter.wav",
+    "Volume": 1
+  },
+  {
+    "Id": "CountDown",
+	"FileName": "CountDown.wav",
+    "Volume": 1
+  }
+]
+}

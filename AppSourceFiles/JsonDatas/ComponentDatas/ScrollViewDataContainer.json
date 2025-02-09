@@ -1,0 +1,26 @@
+{
+	"Datas":
+	[
+		{
+			"TextureDataId":"TestTextures0",
+			"TextContainerId":"ScrollViewTexts0",
+			"AnimatorIndex":1,
+			"ItemNum":5,
+			"ScrollSensitivity":1,
+			"IsSnap":true,
+			"IsLoop":true,
+			"ItemDistance":"0.27"
+		},
+		{
+            "TextureDataId": "UguiScrollViewTextures",
+            "TextContainerId": "",
+			"ItemId":"UguiScrollViewItem",
+            "AnimatorIndex": 0,
+            "ItemNum": 30,
+            "ScrollSensitivity": 1,
+            "IsSnap": false,
+            "IsLoop": false,
+            "ItemDistance": "(5,5)"
+        }
+	]
+}

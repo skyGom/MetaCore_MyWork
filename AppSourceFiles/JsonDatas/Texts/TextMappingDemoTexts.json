@@ -1,0 +1,24 @@
+{
+    "TextContainerId": "TextMappingDemoTexts",
+    "TextDatas":
+    [{
+            "TextDisplayId": 0,
+            "NameFontId": 0,
+            "DescriptionFontId": 0,
+            "Name": "이름(Name)0",
+            "Description": "설명\nDescription\n李二理利!0"
+        }, {
+            "TextDisplayId": 1,
+            "NameFontId": 1,
+            "DescriptionFontId": 1,
+            "Name": "이름(Name)1",
+            "Description": "설명\nDescription\n李二理利!1"
+        }, {
+            "TextDisplayId": 2,
+            "NameFontId": 2,
+            "DescriptionFontId": 2,
+            "Name": "이름(Name)2",
+            "Description": "설명\nDescription\n李二理利!2"
+        }
+    ]
+}
